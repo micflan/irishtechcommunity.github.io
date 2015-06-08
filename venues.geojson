@@ -58,6 +58,25 @@
         "maximum guests": 70,
         "contact": "abalcanasu@zendesk.com"
       }
+    }, 
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2594863,
+          53.3458929
+        ]
+      },
+      "properties": {
+        "marker-symbol": "commercial",
+        "name": "TCube",
+        "address": "8/9 Westmoreland St, Dublin 2",
+        "facilites": "",
+        "accessible": "",
+        "maximum guests": 35,
+        "contact": "contact@tcubedublin.com"
+      }
     } 
   ]
 }
